@@ -9,7 +9,7 @@ I am beyond excited to unveil my latest project a **fully handcrafted, meticulou
 
 
 <div align="center">
-  <img src="https://github.com/DewmikaSenarathna/Why_the_World_Needs_Engineers/blob/main/Why_world_need_Engineers_02.jpg" alt="Alt text">
+  <img src="https://github.com/DewmikaSenarathna/Why_the_World_Needs_Engineers/blob/main/Why_world_need_Engineers_02.jpg" alt="Alt text" width="200" height="200">
 </div>
 
 ## 🌍 **About the Website**
