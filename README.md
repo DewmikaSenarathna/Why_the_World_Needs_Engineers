@@ -1,7 +1,16 @@
 # 🌐 Why the World Needs Engineers 🛠️
 
+<div align="center">
+  <img src="https://github.com/DewmikaSenarathna/Why_the_World_Needs_Engineers/blob/main/Why_world_need_Engineers_01.png" alt="Alt text">
+</div>
+
 ## 🔨 **Built from Scratch, Coded with Passion** 💻  
 I am beyond excited to unveil my latest project a **fully handcrafted, meticulously developed website** titled **“Why the World Needs Engineers”**. This web page is more than just lines of code; it’s a true reflection of my **technical prowess**, **creative vision**, and **unwavering dedication** to both engineering and web development. **Every aspect** of this project from the conceptualization, design, and content creation to the actual coding has been accomplished entirely by my own hands, making this a **100% original creation** by me, **Don Dew**. 🚀
+
+
+<div align="center">
+  <img src="https://github.com/DewmikaSenarathna/Why_the_World_Needs_Engineers/blob/main/Why_world_need_Engineers_02.jpg" alt="Alt text">
+</div>
 
 ## 🌍 **About the Website**
 This website serves as a **tribute to the engineering community** and their invaluable contributions to the world. It delves into the diverse fields of engineering and their profound impact on society, highlighting the role engineers play in solving global challenges and building a sustainable future. From **civil infrastructure** and **technological innovations** to **healthcare advancements** and **environmental sustainability**, this platform celebrates the architects of progress.
