@@ -48,8 +48,8 @@ As a **second-year Computer Engineering undergraduate**, this project represents
 ## 🌱 **Why This Project Matters**
 In an era marked by **rapid technological growth and global challenges**, the need for **innovative problem-solvers** has never been more urgent. Engineers possess the **unique ability to transform ideas into reality**, blending scientific knowledge with practical skills to build a **better, more sustainable future**. This website captures that spirit, illustrating the profound **impact of engineering across industries** and **in our daily lives**.
 
-🔗 **Explore the Project:**
-Stay tuned for the **live version on GitHub Pages** (Link coming soon!) 
+🔗 **Check out my web page::**
+https://dewmikasenarathna.github.io/Why_the_World_Needs_Engineers/
 
 🤝 **Let’s Collaborate:**
 I am **open to exciting collaborations and discussions** around engineering, web development, and creative problem-solving. Feel free to connect and **share ideas**! 
