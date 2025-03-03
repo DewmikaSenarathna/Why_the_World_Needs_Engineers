@@ -1,11 +1,11 @@
-# 🌐 Why the World Needs Engineers 🛠️
+#  Why the World Needs Engineers 
 
 <div align="center">
   <img src="https://github.com/DewmikaSenarathna/Why_the_World_Needs_Engineers/blob/main/Why_world_need_Engineers_01.png" alt="Alt text">
 </div>
 
-## 🔨 **Built from Scratch, Coded with Passion** 💻  
-I am beyond excited to unveil my latest project a **fully handcrafted, meticulously developed website** titled **“Why the World Needs Engineers”**. This web page is more than just lines of code; it’s a true reflection of my **technical prowess**, **creative vision**, and **unwavering dedication** to both engineering and web development. **Every aspect** of this project from the conceptualization, design, and content creation to the actual coding has been accomplished entirely by my own hands, making this a **100% original creation** by me, **Don Dew**. 🚀
+## 💻 **Built from Scratch, Coded with Passion**   
+I am beyond excited to unveil my latest project a **fully handcrafted, meticulously developed website** titled **“Why the World Needs Engineers”**. This web page is more than just lines of code; it’s a true reflection of my **technical prowess**, **creative vision**, and **unwavering dedication** to both engineering and web development. **Every aspect** of this project from the conceptualization, design, and content creation to the actual coding has been accomplished entirely by my own hands, making this a **100% original creation** by me, **Don Dew**. 
 
 
 <div align="center">
@@ -53,4 +53,8 @@ Stay tuned for the **live version on GitHub Pages** (Link coming soon!)
 
 🤝 **Let’s Collaborate:**
 I am **open to exciting collaborations and discussions** around engineering, web development, and creative problem-solving. Feel free to connect and **share ideas**! 
+
+<div align="center">
+  <img src="https://github.com/DewmikaSenarathna/Why_the_World_Needs_Engineers/blob/main/logo_new.png" alt="Alt text">
+</div>
 
