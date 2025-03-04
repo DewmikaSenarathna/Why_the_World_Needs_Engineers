@@ -12,6 +12,8 @@
   <img src="https://github.com/DewmikaSenarathna/Why_the_World_Needs_Engineers/blob/main/Why_world_need_Engineers_02.jpg" alt="Alt text" width="35%" height="auto">
 </div>
 
+---
+
 ## 🌍 **About the Website**
 *This website serves as a tribute to the engineering community and their invaluable contributions to the world. It delves into the diverse fields of engineering and their profound impact on society, highlighting the role engineers play in solving global challenges and building a sustainable future. From civil infrastructure and technological innovations to healthcare advancements and environmental sustainability, this platform celebrates the architects of progress.*
 
@@ -25,6 +27,8 @@
 - 🚀 **Aerospace Engineering:** *Pushing the boundaries of exploration with aircraft and spacecraft innovations.*
 - 🧠 **Biomedical Engineering:** *Advancing healthcare through medical devices and diagnostic tools.*
 
+---
+
 ## 💡 **Innovative Insights & Real-World Impact**
 *The website doesn’t just define engineering disciplines it brings them to life through **compelling case studies and transformative innovations**:*
 - 🌉 **The Channel Tunnel:** *A civil engineering marvel connecting the UK and France.*
@@ -32,11 +36,15 @@
 - ☀️ **Solar Energy Technology:** *Pioneering renewable energy solutions for a sustainable future.*
 - 🧲 **MRI Technology:** *Revolutionizing healthcare with advanced imaging systems.*
 
+---
+
 ## 🎨 **Design & Development**
 - 🖱️ **Front-End Technologies:** *HTML, CSS, JavaScript* 
 - 🧑‍💻 **User Interface & Experience:** *Clean, responsive, and user-friendly design* 
 - 📚 **Content Strategy:** *Thoughtfully curated and well-researched storytelling* 
-- 🎨 **Visual Aesthetics:** *Balanced use of typography, colors, and icons* 
+- 🎨 **Visual Aesthetics:** *Balanced use of typography, colors, and icons*
+
+---
 
 ## 📈 **A Reflection of My Skills & Vision**
 *As a **second-year Computer Engineering undergraduate**, this project represents more than just a technical accomplishment  it’s a **testament to my evolving expertise and creativity**. Through this web page, I demonstrate my:*
@@ -44,6 +52,8 @@
 - **Attention to Detail:** *Ensuring a polished, intuitive, and engaging user experience.*
 - **Passion for Engineering:** *Highlighting the significance of engineers in shaping the world.*
 - **Innovative Mindset:** *Presenting real-world examples of engineering brilliance.*
+
+---
 
 ## 🌱 **Why This Project Matters**
 *In an era marked by **rapid technological growth and global challenges**, the need for **innovative problem-solvers** has never been more urgent. Engineers possess the **unique ability to transform ideas into reality**, blending scientific knowledge with practical skills to build a **better, more sustainable future**. This website captures that spirit, illustrating the profound **impact of engineering across industries** and **in our daily lives**.*
